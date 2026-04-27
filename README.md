@@ -1,21 +1,24 @@
 ### Hi, I'm Jozo 👋
 
-Founder, builder, and thinker — based in Bratislava 🇸🇰
+Founder, builder, thinker — based in Bratislava 🇸🇰
 
 I build companies and tools at the edge of AI and human collaboration.
-I share what I learn — half engineering notebook, half journal.
+This is my hub — the actual work lives under the orgs below.
 
 ---
 
-#### The arc
+#### Where I build
 
-- **[Exponea](https://exponea.com)** → co-founded a customer data platform. Acquired by Bloomreach.
-- **[Ayanza](https://www.ayanza.com)** → an AI-native workspace for teams that think together.
-- **Teamday** → what's next. Tools for high-trust, high-output teams.
+- **[TeamDay-AI](https://github.com/TeamDay-AI)** → Teamday. AI agents that get real work done.
+  Highlights: [`business-tycoon`](https://github.com/TeamDay-AI/business-tycoon) (free AI office simulator game), [`cli`](https://github.com/TeamDay-AI/cli), [`agents`](https://github.com/TeamDay-AI/agents)
+- **[openbm](https://github.com/openbm)** → OpenBiometrics. Open-source face recognition, liveness, document processing — Twilio-like DX.
+- **[Ayanza](https://www.ayanza.com)** → AI-native workspace for teams that think together.
+- **Exponea** → co-founded a customer data platform. Acquired by Bloomreach.
 
 #### What I'm into right now
 
 - AI agents that actually do work — harnesses, evals, cost & token accounting
+- Open-source biometrics with real DX
 - Small, sharp tools over bloated platforms
 - The intersection of philosophy and software: responsibility, purpose, agency
 
